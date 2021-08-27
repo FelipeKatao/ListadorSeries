@@ -1,0 +1,7 @@
+C:\Users\felipe.nascimento\Documents\Cursos\Casdastro de Series\Casdastro de Series\bin\Debug\Casdastro de Series.exe.config
+C:\Users\felipe.nascimento\Documents\Cursos\Casdastro de Series\Casdastro de Series\bin\Debug\Casdastro de Series.exe
+C:\Users\felipe.nascimento\Documents\Cursos\Casdastro de Series\Casdastro de Series\bin\Debug\Casdastro de Series.pdb
+C:\Users\felipe.nascimento\Documents\Cursos\Casdastro de Series\Casdastro de Series\obj\Debug\Casdastro de Series.csprojAssemblyReference.cache
+C:\Users\felipe.nascimento\Documents\Cursos\Casdastro de Series\Casdastro de Series\obj\Debug\Casdastro de Series.csproj.CoreCompileInputs.cache
+C:\Users\felipe.nascimento\Documents\Cursos\Casdastro de Series\Casdastro de Series\obj\Debug\Casdastro de Series.exe
+C:\Users\felipe.nascimento\Documents\Cursos\Casdastro de Series\Casdastro de Series\obj\Debug\Casdastro de Series.pdb
